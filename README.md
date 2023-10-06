@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://somebodyidk.github.io/FM-Product-Preview-Card/)
 
 
 ## My process
