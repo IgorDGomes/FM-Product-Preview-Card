@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-html-and-css-qlWvrbFcip)
 - Live Site URL: [Live site URL](https://somebodyidk.github.io/FM-Product-Preview-Card/)
 
 
